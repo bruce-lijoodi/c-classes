@@ -1,0 +1,11 @@
+E:\LEARN C\strings\obj\Debug\netcoreapp2.2\strings.csprojAssemblyReference.cache
+E:\LEARN C\strings\obj\Debug\netcoreapp2.2\strings.csproj.CoreCompileInputs.cache
+E:\LEARN C\strings\obj\Debug\netcoreapp2.2\strings.AssemblyInfoInputs.cache
+E:\LEARN C\strings\obj\Debug\netcoreapp2.2\strings.AssemblyInfo.cs
+E:\LEARN C\strings\bin\Debug\netcoreapp2.2\strings.deps.json
+E:\LEARN C\strings\bin\Debug\netcoreapp2.2\strings.runtimeconfig.json
+E:\LEARN C\strings\bin\Debug\netcoreapp2.2\strings.runtimeconfig.dev.json
+E:\LEARN C\strings\bin\Debug\netcoreapp2.2\strings.dll
+E:\LEARN C\strings\bin\Debug\netcoreapp2.2\strings.pdb
+E:\LEARN C\strings\obj\Debug\netcoreapp2.2\strings.dll
+E:\LEARN C\strings\obj\Debug\netcoreapp2.2\strings.pdb
